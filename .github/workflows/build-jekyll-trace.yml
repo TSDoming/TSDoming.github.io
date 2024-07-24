@@ -1,0 +1,24 @@
+name: Build Jekyll Site with Trace
+
+on:
+  push:
+    branches:
+      - main  # or your default branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'  # Specify your Ruby version
+
+      - name: Build with Jekyll and Trace
+        run: |
+          gem install bundler
+          bundle install
+          bundle exec jekyll build --trace

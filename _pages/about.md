@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>307 Mason Laboratory </p>
-    <p>9 Hillhouse avenue </p>
+    <p>220 B Mason Leet Oliver Memorial </p>
+    <p>12 Hillhouse avenue </p>
     <p> New Haven, CT 06511 </p>
 
 news: true # includes a list of news items
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in Yale's School of Engineering and Applied Science, affiliated with the Applied Mathematics program. I am interested in statistical physics, and how manifold learning and other data science techniques can be leveraged for appplications in physics and materials science.
+I am interested in statistical physics, and in applications of machine learning in physics and chemistry. I obtained my Ph.D. from Yale's School of Engineering and applied Sciences, currently pursuing a postdoc in Yale's Applied Mathematics department.
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 

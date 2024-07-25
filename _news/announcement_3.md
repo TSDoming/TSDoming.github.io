@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully defended my Ph.D. :sparkles: <--! :smiles:
+Successfully defended my Ph.D. :sparkles: <!-- :smiles:

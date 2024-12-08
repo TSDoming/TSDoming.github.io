@@ -19,9 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am broadly interested in applied mathematics and problems arising in physical chemistry. I obtained my Ph.D. from Yale's School of Engineering and applied Sciences, in the Computational soft matter group. There, I specialized in classical molecular dynamics simulations (MD), and my work was geared towards developing numerical methods to analyze MD data. My work spanned questions such as quantifying finite-size effects or interfacial effects on estimates of transport coefficients, and nucleation rates. I was advised by professor Amir Haji-Akbari, and coadvised by professor Raphy Coifman.
+I am a postdoctoral researcher in Yale's Applied Mathematics department, working with professors Raphy Coifman and Anna Gilbert. Our research centers on developing innovative wavelet methods to uncover hidden structures in data matrices, with wide-ranging applications in data analysis.
 
-Currently I am pursuing a postdoc in Yale's Applied Mathematics department, under the supervision of professors Raphy Coifman and Anna Gilbert. We are interested in using wavelet methods to find structure in data matrices, which can then be used in novel matrix decomposition algorithms. Such decompositions can have many applications, including accelerating MD simulations. Finally, I am interested in how diffusion probabilistic models and other machine learning techniques can be used in the context of MD, for example for enhanced sampling.
+I have a background in physical chemistry, after completing my Ph.D. in the Computational Soft Matter group at Yale's School of Engineering and Applied Sciences, advised by professors Amir Haji-Akbari and Raphy Coifman. My doctoral research focused on developing numerical methods for analyzing molecular dynamics (MD) simulations. I explored critical computational challenges, including quantifying finite-size effects, and investigating interfacial effects on the dynamics of liquids, both in the case of estimating transport coefficients and heterogeneous nucleation rates in the presence of supercooling.
+
+My research interests are broadly in statistical physics and applied mathematics. I am very interested in leveraging advanced computational methods, such as those arising in the machine learning community, to solve complex scientific problems, particularly those arising from physical chemistry. 
+
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 

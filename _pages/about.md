@@ -20,6 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am broadly interested in applied mathematics and problems arising in physical chemistry. I obtained my Ph.D. from Yale's School of Engineering and applied Sciences, in the Computational soft matter group. There, I specialized in classical molecular dynamics simulations (MD), and my work was geared towards developing numerical methods to analyze MD data. My work spanned questions such as quantifying finite-size effects or interfacial effects on estimates of transport coefficients, and nucleation rates. I was advised by professor Amir Haji-Akbari, and coadvised by professor Raphy Coifman.
+
 Currently I am pursuing a postdoc in Yale's Applied Mathematics department, under the supervision of professors Raphy Coifman and Anna Gilbert. We are interested in using wavelet methods to find structure in data matrices, which can then be used in novel matrix decomposition algorithms. Such decompositions can have many applications, including accelerating MD simulations. Finally, I am interested in how diffusion probabilistic models and other machine learning techniques can be used in the context of MD, for example for enhanced sampling.
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->

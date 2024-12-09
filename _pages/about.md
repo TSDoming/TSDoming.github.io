@@ -23,10 +23,9 @@ I am a postdoctoral researcher in Yale's Applied Mathematics department, working
 
 My research interests are broadly in statistical physics and applied mathematics. A sample of the scientific questions that I'd like to address in my research are: 
 <ul>
-    <li>how to construct dimensionality reduction and feature extraction methods to uncover hidden collective variables that govern chemical processes, such as protein folding, at the mesoscopic scale</li>
-    <li>fixie</li>
-    <li>how to parameterize complex interatomic potentials that capture quantum mechanical effects more accurately than traditional classical force fields</li>
-    <li>how to leverage methods arising in the machine learning community to enhance rare event sampling in molecular systems</li>
+    <li>how to construct dimensionality reduction and feature extraction methods to uncover hidden collective variables that govern chemical processes, such as protein folding, at the mesoscopic scale;</li>
+    <li>how to parameterize complex interatomic potentials that capture quantum mechanical effects more accurately than traditional classical force fields;</li>
+    <li>how to leverage methods arising in the machine learning community to enhance rare event sampling in molecular systems.</li>
 </ul>
 
 During my Ph.D. at Yale's School of Engineering and Applied Sciences, I was affiliated to the <a href="https://haji-akbari.yale.edu/">Computational Soft Matter group</a>  and to <a href="https://applied.math.yale.edu/graduate-program-0">Yale's Applied mathematics Program</a>, and I was advised by professors <a href="https://haji-akbari.yale.edu/profile/amir-haji-akbari">Amir Haji-Akbari</a> and <a href="https://seas.yale.edu/faculty-research/faculty-directory/ronald-coifman">Ronald Coifman</a>. My doctoral research focused on developing numerical methods for analyzing molecular dynamics (MD) simulations. The questions I explored revolved around investigating interfacial effects on the dynamics of liquids, both in the case of estimating transport coefficients and heterogeneous nucleation rates in the presence of supercooling.

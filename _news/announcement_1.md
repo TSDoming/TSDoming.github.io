@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Obtained a master's degree in Mathematics from the Federal University of Rio de Janeiro
+Obtained an M.Sc. in Mathematics from the Federal University of Rio de Janeiro

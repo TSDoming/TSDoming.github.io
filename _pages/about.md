@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher in Yale's Applied Mathematics department, working with professors <a href="https://seas.yale.edu/faculty-research/faculty-directory/ronald-coifman">Ronald Coifman</a> and <a href="https://annacgilbert.github.io/">Anna Gilbert</a>. My research program during the postdoc centers on developing innovative wavelet methods to uncover hidden structures in data matrices, with wide-ranging applications in data analysis.
+I am a postdoctoral researcher in Yale's Applied Mathematics department, working with professors <a href="https://seas.yale.edu/faculty-research/faculty-directory/ronald-coifman">Ronald Coifman</a> and <a href="https://roy.lederman.name/">Roy Lederman</a>. My research program during the postdoc centers on developing innovative wavelet methods to uncover hidden structures in data matrices, with wide-ranging applications in data analysis.
 
 My research interests lie broadly within statistical and computational physics. A sample of the scientific questions that I'd like to address in my research are: 
 <ul>
